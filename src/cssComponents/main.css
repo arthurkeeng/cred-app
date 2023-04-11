@@ -1,0 +1,19 @@
+
+
+.mainMain{
+    padding-left: 1rem;
+    background:white;
+    display:flex;
+    /* align-items: center; */
+    height:90%;
+    width:98%;
+    margin:0 auto;
+}
+
+.mainMainFirstDiv{
+    /* width:18rem; */
+    margin-top:6px;
+    margin-right:7px;
+    border-right:3px solid lightgrey;
+    padding-right:7px;
+}

@@ -1,0 +1,16 @@
+
+.mainArticleArticle{
+ 
+    margin: 2rem 1rem;
+    /* background: grey; */
+    border-radius: 4px;
+    height:fit-content;
+    width: 14%;
+    box-shadow: 2px 2px lightgrey;
+    padding:1rem;
+}
+
+.mainSectionSection{
+    display:flex;
+    
+}

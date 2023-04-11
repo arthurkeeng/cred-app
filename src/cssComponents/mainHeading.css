@@ -1,0 +1,45 @@
+
+.mainHeadingSection{
+    border-bottom: 1px solid lightgray;
+    display:flex;
+    justify-content:space-between;
+    align-content: center;
+    height:4rem;
+}
+
+.headingFirstDiv{
+    flex:1;
+    /* width:40%; */
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right:6rem;
+}
+.headingFirstDiv > * {
+    margin-left: 1rem;
+}
+
+.headingFirstDiv h4 span{
+    display:block;
+    margin-top:0rem;
+    font-weight:lighter;
+}
+
+.headingSecondDiv{
+    position:relative;
+    flex:2;
+    /* background:lightgrey; */
+    display:flex;
+    align-items: center;
+
+}
+
+.headingSecondDiv div{
+    margin-right:1rem;
+}
+
+.headingSecondDiv p {
+    position:absolute;
+    top:1%;
+    left:3%;
+}
